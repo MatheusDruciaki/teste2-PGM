@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(52, 52, 226);
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px white;
+    width: 40%;
+    height: 40%;
+    margin-left: 550px;
+}
+select {
+    color: white;
+    width: 20%;
+    background-color: black;
+    height: 20%;
+}
+option{
+    font-family: Arial, Helvetica, sans-serif;
+   /* border-radius: 17px; */
+    color: black;
+    box-shadow: 3px 3px 3px white;
+}
